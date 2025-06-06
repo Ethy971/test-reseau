@@ -1,0 +1,38 @@
+/* Styles pour la mise en page */
+corps{
+    famille de polices:Arial,sans empattement;
+    marge: 0;
+    rembourrage: 0;
+}
+
+en-tête, navigation, section, pied de page{
+    rembourrage: 20px;
+    marge inférieure: 20px;
+    couleur d'arrière-plan: #f1f1f1;
+}
+
+navigation ul{
+    liste-style-type:aucun;
+    rembourrage: 0;
+    marge: 0;
+}
+
+navigation li{
+    afficher:en ligne;
+    marge droite: 10px;
+}
+
+navigation li un{
+    décoration de texte:aucun;
+    couleur: #333;
+}
+
+section h2{
+    couleur: #333;
+}
+
+pied de page p{
+    alignement du texte:centre;
+    taille de police: 12px;
+    couleur: #777;
+}
